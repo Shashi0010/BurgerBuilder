@@ -13,6 +13,9 @@
     margin-left: 0;
     padding-left: 0;
 }
+.Button:disabled{
+    color: #929191;
+}
 .Success {
     color: #5C9210;
 }
